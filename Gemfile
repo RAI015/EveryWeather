@@ -76,7 +76,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # ----- 以下追加 -----
 gem 'bootstrap', '>= 4.3.1'
-gem 'carrierwave', '1.2.2'
+gem 'carrierwave', '1.3.2'
 gem 'devise'
 gem 'devise-i18n'
 gem 'devise-i18n-views'
